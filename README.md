@@ -5,8 +5,11 @@ This paper analyzes global greenhouse gas emissions across major sectors to iden
 
 ## Visualizations
 
-![fig1](./visualization images/total_emission.png)
-![](./visualization images/world_contribution.png)
+![fig1](./figs/total_emission.png) 
+![](./figs/world_contribution.png)
+![](./figs/EmmisionSources_industry.png)
+![](./figs/EmmisionSources_waste.png)
+![](./figs/EmmisionSources_agriculture.png)
 
 ## Reference
 - Jones et al. (2025) – with major processing by Our World in Data. ``Annual greenhouse gas emissions including land use'' [dataset].
